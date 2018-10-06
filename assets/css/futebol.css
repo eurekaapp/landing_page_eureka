@@ -1,0 +1,26 @@
+.logo-copa{
+    width: 40px;
+    height:40px;
+}
+.login-copa{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#21b728+28,6bba70+71 */
+background: #21b728; /* Old browsers */
+background: -moz-linear-gradient(top, #21b728 28%, #6bba70 71%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #21b728 28%,#6bba70 71%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #21b728 28%,#6bba70 71%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#21b728', endColorstr='#6bba70',GradientType=0 ); /* IE6-9 */
+}
+.login-copaa{
+    background: #34a853; /* For older browsers that may not support gradients */
+    background: -webkit-radial-gradient(center, ellipse cover, #34a853 0%, #21b728  100%);
+    background: radial-gradient( #21b728, #6bba70);
+}
+
+.gr-hover {
+  color:#00bcd4;
+}
+.em_breve{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray; /* IE */
+}
